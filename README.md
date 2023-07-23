@@ -6,4 +6,6 @@ Ceci n'est qu'une liste partielle des opérations que vous pouvez effectuer sur 
 
 Mais la liste que j'ai dans le fichier est en majorité du temps les opération a faire en python, c'est la majorité que j'utilise personnellement.
 
+éxecutez le fichier sur votre machine pour voir le résultat puis regarder le code pour comprendre.
+
 Crédit: Rafik Mansour.
